@@ -5,4 +5,4 @@ This repository contains the code used in Paper "Noncoding transcripts are linke
 Included are the codes necessary to replicate the analyses.
 
 ## Data
-Pprocessed data are available in this folder .
+Processed data are available in this folder .
